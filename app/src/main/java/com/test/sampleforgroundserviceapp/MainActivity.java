@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()){
             case R.id.btnStartService:
                 Intent startIntent = new Intent(MainActivity.this, MyForegroundService.class);
+                //Action tells the onStart method to run the service in foreground
                 startIntent.setAction(Constants.ACTION.STARTFOREGROUND_ACTION);
                 startService(startIntent);
                 break;

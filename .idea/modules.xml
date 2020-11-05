@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-SampleForgroundServiceApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-SampleForgroundServiceApp.iml" group="SampleForgroundServiceApp" />
       <module fileurl="file://$PROJECT_DIR$/SampleForgroundServiceApp.iml" filepath="$PROJECT_DIR$/SampleForgroundServiceApp.iml" />
-      <module fileurl="file://D:\Saket\My_Projects\GitHub\SampleForgroundServiceApp\SampleForgroundServiceApp.iml" filepath="D:\Saket\My_Projects\GitHub\SampleForgroundServiceApp\SampleForgroundServiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleForgroundServiceApp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleForgroundServiceApp-app.iml" group="SampleForgroundServiceApp/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\Saket\My_Projects\GitHub\SampleForgroundServiceApp\app\app.iml" filepath="D:\Saket\My_Projects\GitHub\SampleForgroundServiceApp\app\app.iml" />
     </modules>
   </component>
 </project>

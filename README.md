@@ -1,4 +1,7 @@
 # SampleForgroundServiceApp
-Inital commit for sample foreground service app.
-
-Refer url - http://www.truiton.com/2014/10/android-foreground-service-example/
+Sample app which shows:
+how to bring a service to the foreground
+Define notification for the foreground service which tells the user the foreground service is active
+Handle content intent
+Handle actions in the notification via pending intents
+How to stop the foreground service
